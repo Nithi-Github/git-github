@@ -1,2 +1,3 @@
 # git-github
-My first Git Repository Project
+My first Git Repository
+This is for Tutorial Purpose
